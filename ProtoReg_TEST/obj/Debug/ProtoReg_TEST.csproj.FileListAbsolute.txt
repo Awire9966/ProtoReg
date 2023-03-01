@@ -1,0 +1,11 @@
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\bin\Debug\ProtoReg_TEST.exe.config
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\bin\Debug\ProtoReg_TEST.exe
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\bin\Debug\ProtoReg_TEST.pdb
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\obj\Debug\ProtoReg_TEST.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\obj\Debug\ProtoReg_TEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\obj\Debug\ProtoReg_TEST.Form1.resources
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\obj\Debug\ProtoReg_TEST.Properties.Resources.resources
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\obj\Debug\ProtoReg_TEST.csproj.GenerateResource.cache
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\obj\Debug\ProtoReg_TEST.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\obj\Debug\ProtoReg_TEST.exe
+C:\Users\Awire\source\repos\ProtoReg_TEST\ProtoReg_TEST\obj\Debug\ProtoReg_TEST.pdb
