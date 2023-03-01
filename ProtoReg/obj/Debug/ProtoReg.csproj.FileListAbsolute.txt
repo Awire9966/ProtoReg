@@ -1,0 +1,6 @@
+C:\Users\Awire\source\repos\ProtoReg\ProtoReg\bin\Debug\ProtoReg.dll
+C:\Users\Awire\source\repos\ProtoReg\ProtoReg\bin\Debug\ProtoReg.pdb
+C:\Users\Awire\source\repos\ProtoReg\ProtoReg\obj\Debug\ProtoReg.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\ProtoReg\ProtoReg\obj\Debug\ProtoReg.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\ProtoReg\ProtoReg\obj\Debug\ProtoReg.dll
+C:\Users\Awire\source\repos\ProtoReg\ProtoReg\obj\Debug\ProtoReg.pdb
