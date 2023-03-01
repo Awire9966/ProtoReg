@@ -7,7 +7,7 @@ Create your own protocol!
 To use Add a refrence to ProtoReg by adding at the top of your code: ``` using ProtoReg```
 Aftewards you can call the one and only method.
 ```public static void Register(string protocolname, string openapp, bool allowargs = true)```
-``` 
+
 ```
 Registrar.Register("Protocol Name Here", "Executable path here", bool allow arguments (True if not specified.) );
 ```
